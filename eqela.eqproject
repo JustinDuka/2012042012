@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Tasklist App
+#
+
+projectname: Tasklist App
+vendorid: com.mycompany
+mainmodule: com.mycompany.tasklistapp
