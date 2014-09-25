@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# thu1
+#
+
+projectname: thu1
+vendorid: com.duka.example
+mainmodule: com.duka.example.thu1

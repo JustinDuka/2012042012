@@ -1,0 +1,11 @@
+ldflags: -lcom.eqela.libconsole -lcom.eqela.libos -lcom.eqela.libstringutil -lcom.eqela.libio -leq.api -L. -static-libstdc++ -static-libgcc -mconsole -mwindows
+depends: eq.api,com.eqela.libio,com.eqela.libos,com.eqela.libconsole,com.eqela.libconsole,com.eqela.libconsole
+moduletype: consoleapplication
+platform: win7m32
+url: 
+license: 
+copyright: 
+version: 1.0.0
+description: 
+displayname: thu1
+id: com.duka.example.thu1
