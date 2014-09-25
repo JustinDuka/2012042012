@@ -1,9 +1,0 @@
-
-#
-# Project configuration file for
-# Eqela Tasklist
-#
-
-projectname: Eqela Tasklist
-vendorid: com.justinduka
-mainmodule: com.justinduka.eqelatasklist
